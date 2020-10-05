@@ -7,4 +7,6 @@ Open the IrisAnalysis.ipynb file to read through this Jupyter Notebook.
 
 This project is ongoing.
 
+More information about this project can be found in this fantastic book [blue_text](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) 
+
 ![Iris_Flowers](https://upload.wikimedia.org/wikipedia/commons/a/ad/Iris_persica_%28Sowerby%29.jpg)
